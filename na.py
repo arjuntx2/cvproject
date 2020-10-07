@@ -14,5 +14,14 @@ def setup_logger(name, log_file, level=logging.DEBUG):
     logger.addHandler(handler)
     return logger
 
+cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
-import os
+while cap.isOpened():
+    ret, frame = cap.read()
+    if ret == True:
+        frame1 = cv2.flip(frame,0)
+        cv2.imshow('frame',frame1)
+        if cv2.waitKey(1) & 0XFF == ord('q'):
+            break
+cap.release()
+cv2.destroyAllWindows()
