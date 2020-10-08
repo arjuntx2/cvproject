@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67ec909b-7a87-4497-855a-aac9e78ad29d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bgr.py" afterDir="false" />
+    <list default="true" id="67ec909b-7a87-4497-855a-aac9e78ad29d" name="Default Changelist" comment="bgr">
+      <change afterPath="$PROJECT_DIR$/CaptureImages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/na.py" beforeDir="false" afterPath="$PROJECT_DIR$/na.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaveVideo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaveVideo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bgr.py" beforeDir="false" afterPath="$PROJECT_DIR$/bgr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,16 +23,61 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZ3bqErC83BHinC3NQfEwZoovl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.na">
+  <component name="RunManager" selected="Python.ImgVidCapture">
+    <configuration name="ImgVidCapture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OPENCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Arjun\PycharmProjects\OPENCV\ImgVidCapture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bgr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OPENCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bgr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OPENCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ImgVidCapture" />
+        <item itemvalue="Python.bgr" />
         <item itemvalue="Python.na" />
         <item itemvalue="Python.main" />
       </list>
@@ -92,32 +140,69 @@
       <option name="presentableId" value="Default" />
       <updated>1602101360862</updated>
     </task>
+    <task id="LOCAL-00001" summary="bgr">
+      <created>1602112106236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602112106236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="bgr" />
+    <option name="LAST_COMMIT_MESSAGE" value="bgr" />
   </component>
   <component name="WindowStateProjectService">
     <state x="913" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602104428216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="913" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602104428216" />
-    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602105115930">
+    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602152064370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602105115930" />
-    <state width="1515" height="87" key="GridCell.Tab.0.bottom" timestamp="1602107845878">
+    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602152064370" />
+    <state x="821" y="14" key="CommitChangelistDialog2" timestamp="1602112139630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="87" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602107845878" />
-    <state width="1515" height="87" key="GridCell.Tab.0.center" timestamp="1602107845878">
+    <state x="821" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602112139630" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1602151795012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="87" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602107845878" />
-    <state width="1515" height="87" key="GridCell.Tab.0.left" timestamp="1602107845877">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602151795012" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1602151795011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="87" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602107845877" />
-    <state width="1515" height="87" key="GridCell.Tab.0.right" timestamp="1602107845878">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602151795011" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1602151795011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="87" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602107845878" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602151795011" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1602151795012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602151795012" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1602112426385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602112426385" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1602112426385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602112426385" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1602112426385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602112426385" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1602112426385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602112426385" />
+    <state x="965" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602112147916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="965" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602112147916" />
   </component>
 </project>
