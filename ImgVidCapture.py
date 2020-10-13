@@ -4,6 +4,17 @@ __version__ = "0.0.1"
 __status__ = ""
 import cv2
 import os
+import glob
+
+'''''
+ Following command shows how to read images
+ '''''
+
+for img in glob.glob("data-images/*"):
+    cv_img = cv2.imread(img)
+    cv2.imshow('show',cv_img)
+    cv2.waitKey(1000)
+    cv2.destroyAllWindows()
 
 '''''
  Following command shows how to save image frames
