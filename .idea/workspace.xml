@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ec909b-7a87-4497-855a-aac9e78ad29d" name="Default Changelist" comment="bgr">
-      <change afterPath="$PROJECT_DIR$/CropIT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cropped.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pü.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImgVidCapture.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImgVidCapture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bgr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pü.py" beforeDir="false" afterPath="$PROJECT_DIR$/pü.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +34,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.CropIT (1)">
+  <component name="RunManager" selected="Python.Contour">
+    <configuration name="Contour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OPENCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Arjun\PycharmProjects\OPENCV\Contour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="CropIT (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OPENCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,27 +119,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OPENCV" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="na" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OPENCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Contour" />
         <item itemvalue="Python.CropIT (1)" />
         <item itemvalue="Python.CropIT" />
         <item itemvalue="Python.ImgVidCapture" />
         <item itemvalue="Python.na" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -194,45 +189,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="821" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602112139630" />
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1602625618640">
+    <state width="1515" height="260" key="GridCell.Tab.0.bottom" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602625618640" />
-    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1602625618640">
+    <state width="1515" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
+    <state width="1515" height="260" key="GridCell.Tab.0.center" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602625618640" />
-    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1602625618640">
+    <state width="1515" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
+    <state width="1515" height="260" key="GridCell.Tab.0.left" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602625618640" />
-    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1602625618640">
+    <state width="1515" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
+    <state width="1515" height="260" key="GridCell.Tab.0.right" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602625618640" />
-    <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1602620808961">
+    <state width="1515" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
+    <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602620808961" />
-    <state width="1515" height="260" key="GridCell.Tab.1.center" timestamp="1602620808961">
+    <state width="1515" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
+    <state width="1515" height="260" key="GridCell.Tab.1.center" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602620808961" />
-    <state width="1515" height="260" key="GridCell.Tab.1.left" timestamp="1602620808961">
+    <state width="1515" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
+    <state width="1515" height="260" key="GridCell.Tab.1.left" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602620808961" />
-    <state width="1515" height="260" key="GridCell.Tab.1.right" timestamp="1602620808961">
+    <state width="1515" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
+    <state width="1515" height="260" key="GridCell.Tab.1.right" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602620808961" />
+    <state width="1515" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602631714451" />
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1602620144467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602620144467" />
-    <state x="965" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602112147916">
+    <state x="965" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602630232916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="965" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602112147916" />
+    <state x="965" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602630232916" />
   </component>
 </project>
