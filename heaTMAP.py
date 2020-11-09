@@ -28,4 +28,6 @@ def add(image, heat_map, alpha=0.6, display=False, save=None, cmap='viridis', ax
         if verbose:
             print('save image: ' + save)
         plt.savefig(save, bbox_inches='tight', pad_inches=0)
+
+
 add('b.png',heat_map = True)

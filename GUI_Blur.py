@@ -1,3 +1,4 @@
+from tkinter import Label, Button, LEFT, RIGHT
 import tkinter
 import cv2
 import PIL.Image, PIL.ImageTk
@@ -27,6 +28,8 @@ class App:
          self.btn_blur=tkinter.Button(window, text="Blur", width=50, command=self.blur_image)
          self.btn_blur.pack(anchor=tkinter.CENTER, expand=True)
 
+         self.btn_exit = tkinter.Button(window, text = 'Exit', width = 40, command = window.quit)
+         self.btn_exit.pack(side = RIGHT)
          self.window.mainloop()
 
      # Callback for the "Blur" button

@@ -17,7 +17,7 @@ import tkinter as tk
 from tkinter import *
 from PIL import Image,ImageTk
 from datetime import datetime
-from tkinter import messagebox, filedialog
+from tkinter import messagebox, filedialog, W
 
 # Defining CreateWidgets() function to create necessary tkinter widgets
 def CreateWidgets():
@@ -51,6 +51,8 @@ def CreateWidgets():
     root.openImageButton = Button(root, width=10, text="BROWSE", command=imageBrowse)
     root.openImageButton.grid(row=3, column=5, padx=10, pady=10)
 
+    root.close_button = Button(root, text="Close", command=root.quit)
+    root.close_button.grid(row=3, column=6, padx=50, pady=10, sticky = W +E )
     # Calling ShowFeed() function
     ShowFeed()
 

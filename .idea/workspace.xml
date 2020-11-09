@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ec909b-7a87-4497-855a-aac9e78ad29d" name="Default Changelist" comment="bgr">
-      <change afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-images/01-11-2020 22-43-30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-images/01-11-2020 22-44-56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-images/02-11-2020 11-26-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame-01-11-2020-22-48-54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_frame_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OPENCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OPENCV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/trial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +41,7 @@
       <recent name="C:\Users\Arjun\PycharmProjects\OPENCV" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GUI">
+  <component name="RunManager" selected="Python.trial">
     <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OPENCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,9 +170,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.trial" />
         <item itemvalue="Python.GUI" />
         <item itemvalue="Python.tkapp" />
-        <item itemvalue="Python.trial" />
         <item itemvalue="Python.newfile" />
         <item itemvalue="Python.App" />
       </list>
@@ -231,26 +217,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="821" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602112139630" />
-    <state x="97" y="161" key="FileChooserDialogImpl" timestamp="1604328088394">
+    <state x="97" y="161" key="FileChooserDialogImpl" timestamp="1604400879494">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="97" y="161" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604328088394" />
-    <state width="1515" height="184" key="GridCell.Tab.0.bottom" timestamp="1604397292385">
+    <state x="97" y="161" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604400879494" />
+    <state width="1515" height="184" key="GridCell.Tab.0.bottom" timestamp="1604405697098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604397292385" />
-    <state width="1515" height="184" key="GridCell.Tab.0.center" timestamp="1604397292385">
+    <state width="1515" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604405697098" />
+    <state width="1515" height="184" key="GridCell.Tab.0.center" timestamp="1604405697098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604397292385" />
-    <state width="1515" height="184" key="GridCell.Tab.0.left" timestamp="1604397292385">
+    <state width="1515" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604405697098" />
+    <state width="1515" height="184" key="GridCell.Tab.0.left" timestamp="1604405697097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604397292385" />
-    <state width="1515" height="184" key="GridCell.Tab.0.right" timestamp="1604397292385">
+    <state width="1515" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604405697097" />
+    <state width="1515" height="184" key="GridCell.Tab.0.right" timestamp="1604405697098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604397292385" />
+    <state width="1515" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604405697098" />
     <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1602631714451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

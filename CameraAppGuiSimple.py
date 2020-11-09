@@ -25,7 +25,7 @@ mainFrame.place(x=20, y=20)
 lmain = tk.Label(mainFrame)
 lmain.grid(row=0, column=0)
 
-cap = cv2.VideoCapture('camVideo.mp4')
+cap = cv2.VideoCapture(0)
 
 def show_frame():
 	ret, frame = cap.read()
